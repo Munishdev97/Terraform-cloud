@@ -19,7 +19,7 @@ module "vpc" {
   }
 
   tags = {
-    Created by   = "Terraform"
+    Created_by   = "Terraform"
     Environment = "dev"
   }
 }
